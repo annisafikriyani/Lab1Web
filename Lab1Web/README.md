@@ -1,18 +1,29 @@
 Langkah-Langkah Praktikum
 1. Membuat Struktur Dasar & Paragraf
 Membuat dokumen HTML5 dengan struktur utama (<!DOCTYPE html>, <html>, <head>, <body>) serta menambahkan paragraf menggunakan tag <p>.
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/fb0ec3c7-0025-4f18-bc6d-db13147785c6" />
 
 2. Menambahkan Heading & Pemformatan Teks
 Menggunakan tag heading <h1> dan <h2>, serta menerapkan pemformatan teks tebal <b>/<strong>, miring <i>, <sub> (subscript), dan <sup> (superscript).
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/56a84836-af18-4214-9235-0285e0ce25ce" />
 
 3. Menyisipkan & Mengatur Gambar
 Menampilkan gambar profil mahasiswa menggunakan tag <img> dengan mengatur atribut src, width, alt, dan title.
+<img width="1060" height="293" alt="image" src="https://github.com/user-attachments/assets/f668d3ef-6bcf-42c2-98fe-b052d5bd118f" />
+<img width="311" height="347" alt="image" src="https://github.com/user-attachments/assets/8977b7fa-0f86-4067-9d59-13967a0e692e" />
 
 4. Menambahkan Hyperlink (Internal & Eksternal)
 Membuat tautan navigasi menggunakan tag <a> untuk menghubungkan index.html dengan halaman2.html (internal) dan tautan ke situs luar seperti Universitas Pelita Bangsa (eksternal).
+<img width="921" height="222" alt="image" src="https://github.com/user-attachments/assets/d094e0e1-68c1-47dc-b49b-68e9d72a92dc" />
+<img width="437" height="78" alt="image" src="https://github.com/user-attachments/assets/47f5595f-e11f-462b-a468-427c8de28684" />
+<img width="1287" height="752" alt="image" src="https://github.com/user-attachments/assets/49274cd9-9eb8-4b47-82fa-4b1a1369e875" />
+<img width="1146" height="651" alt="image" src="https://github.com/user-attachments/assets/73c4e496-95f2-444d-b2ea-415936375299" />
+
 
 5. Membuat List (Daftar)
 Membuat daftar keahlian menggunakan <ul> (unordered list) dan daftar urutan/target belajar menggunakan <ol> (ordered list).
+<img width="470" height="462" alt="image" src="https://github.com/user-attachments/assets/71786e0f-4aa1-46e7-869e-34ae44ccd82b" />
+<img width="358" height="307" alt="image" src="https://github.com/user-attachments/assets/b29f36a2-b659-4290-9152-c472e7da7296" />
 
 
 
